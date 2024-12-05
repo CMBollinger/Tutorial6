@@ -35,5 +35,10 @@
       orphans: 3;
    }
    
+   article h1 {
+      -moz-column-span: all;
+      -webkit-column-span: all;
+      column-span: all;
+   }
 
 }
